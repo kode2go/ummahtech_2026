@@ -43,7 +43,7 @@ st.divider()
 st.header("Offline AI")
 st.markdown(
     """
-Offline locao AI for your laptop or phone!
+Offline local AI for your laptop or phone!
 """
 )
 st.link_button("Link", "https://kode2go.github.io/ai_offline/")
